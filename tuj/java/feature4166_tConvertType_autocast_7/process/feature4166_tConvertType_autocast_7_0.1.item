@@ -230,7 +230,7 @@
       <elementValue elementRef="VALUE" value="Integer.valueOf(97)"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="type_long"/>
       <elementValue elementRef="VALUE" value="97L"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="type_Long"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="Objecttype_Long"/>
       <elementValue elementRef="VALUE" value="Long.valueOf(97L)"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="type_Object"/>
       <elementValue elementRef="VALUE" value="new Object()"/>
@@ -264,7 +264,7 @@
       <column comment="" key="false" name="type_int" nullable="false" pattern="" sourceType="" type="id_Integer"/>
       <column comment="" key="false" name="type_Integer" nullable="true" pattern="" sourceType="" type="id_Integer"/>
       <column comment="" key="false" name="type_long" nullable="false" pattern="" sourceType="" type="id_Long"/>
-      <column comment="" key="false" name="type_Long" nullable="true" pattern="" sourceType="" type="id_Long"/>
+      <column comment="" key="false" name="Objecttype_Long" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="type_Object" nullable="true" pattern="" sourceType="" type="id_Object"/>
       <column comment="" key="false" name="type_short" nullable="false" pattern="" sourceType="" type="id_Short"/>
       <column comment="" key="false" name="Objecttype_Short" nullable="true" pattern="" sourceType="" type="id_Short"/>
@@ -311,7 +311,7 @@
       <elementValue elementRef="OUTPUT_COLUMN" value="BigDecimal_to_long"/>
       <elementValue elementRef="INPUT_COLUMN" value="type_Integer"/>
       <elementValue elementRef="OUTPUT_COLUMN" value="Integer_to_long"/>
-      <elementValue elementRef="INPUT_COLUMN" value="type_Long"/>
+      <elementValue elementRef="INPUT_COLUMN" value="Objecttype_Long"/>
       <elementValue elementRef="OUTPUT_COLUMN" value="Long_to_long"/>
       <elementValue elementRef="INPUT_COLUMN" value="type_short"/>
       <elementValue elementRef="OUTPUT_COLUMN" value="short_to_long"/>
@@ -720,7 +720,7 @@
       <elementValue elementRef="VALUE" value="Integer.valueOf(1024)"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="type_long"/>
       <elementValue elementRef="VALUE" value="1024L"/>
-      <elementValue elementRef="SCHEMA_COLUMN" value="type_Long"/>
+      <elementValue elementRef="SCHEMA_COLUMN" value="Objecttype_Long"/>
       <elementValue elementRef="VALUE" value="Long.valueOf(1024L)"/>
       <elementValue elementRef="SCHEMA_COLUMN" value="type_Object"/>
       <elementValue elementRef="VALUE" value="new Object()"/>
@@ -754,7 +754,7 @@
       <column comment="" key="false" name="type_int" nullable="false" pattern="" sourceType="" type="id_Integer"/>
       <column comment="" key="false" name="type_Integer" nullable="true" pattern="" sourceType="" type="id_Integer"/>
       <column comment="" key="false" name="type_long" nullable="false" pattern="" sourceType="" type="id_Long"/>
-      <column comment="" key="false" name="type_Long" nullable="true" pattern="" sourceType="" type="id_Long"/>
+      <column comment="" key="false" name="Objecttype_Long" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="type_Object" nullable="true" pattern="" sourceType="" type="id_Object"/>
       <column comment="" key="false" name="type_short" nullable="false" pattern="" sourceType="" type="id_Short"/>
       <column comment="" key="false" name="Objecttype_Short" nullable="true" pattern="" sourceType="" type="id_Short"/>
@@ -800,7 +800,7 @@
       <column comment="" key="false" name="type_BigDecimal" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="type_int" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="type_long" nullable="true" pattern="" sourceType="" type="id_Long"/>
-      <column comment="" key="false" name="type_Long" nullable="true" pattern="" sourceType="" type="id_Long"/>
+      <column comment="" key="false" name="Objecttype_Long" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="type_short" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="Objecttype_Short" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="type_Date" nullable="true" pattern="" sourceType="" type="id_Long"/>
@@ -861,7 +861,7 @@
       <column comment="" key="false" name="type_BigDecimal" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="type_int" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="type_long" nullable="true" pattern="" sourceType="" type="id_Long"/>
-      <column comment="" key="false" name="type_Long" nullable="true" pattern="" sourceType="" type="id_Long"/>
+      <column comment="" key="false" name="Objecttype_Long" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="type_short" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="Objecttype_Short" nullable="true" pattern="" sourceType="" type="id_Long"/>
       <column comment="" key="false" name="type_Date" nullable="true" pattern="" sourceType="" type="id_Long"/>
