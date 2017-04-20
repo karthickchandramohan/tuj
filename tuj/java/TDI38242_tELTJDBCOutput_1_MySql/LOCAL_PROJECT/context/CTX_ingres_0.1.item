@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_lYlR8CV3EeepgrpBZ18C7A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_lYlR8SV3EeepgrpBZ18C7A" comment="" name="ingres_database" prompt="ingres_database?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_lYlR8iV3EeepgrpBZ18C7A" comment="" name="ingres_port" prompt="ingres_port?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_lYlR8yV3EeepgrpBZ18C7A" comment="" name="ingres_username" prompt="ingres_username?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_lYlR9CV3EeepgrpBZ18C7A" comment="" name="ingres_password" prompt="ingres_password?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_lYlR9SV3EeepgrpBZ18C7A" comment="" name="ingres_host" prompt="ingres_host?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_H6Lw4CWQEeepgrpBZ18C7A" comment="" name="redshift_host" prompt="redshift_host?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_H6Lw4SWQEeepgrpBZ18C7A" comment="" name="redshift_password" prompt="redshift_password?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_H6Lw4iWQEeepgrpBZ18C7A" comment="" name="redshift_port" prompt="redshift_port?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_H6Lw4yWQEeepgrpBZ18C7A" comment="" name="redshift_schema" prompt="redshift_schema?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_H6Lw5CWQEeepgrpBZ18C7A" comment="" name="redshift_username" prompt="redshift_username?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_H6Lw5SWQEeepgrpBZ18C7A" comment="" name="redshift_database" prompt="redshift_database?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_C8UrkCWXEeepgrpBZ18C7A" comment="" name="exa6_host" prompt="exa6_host?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_C8UrkSWXEeepgrpBZ18C7A" comment="" name="exa6_port" prompt="exa6_port?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_C8UrkiWXEeepgrpBZ18C7A" comment="" name="exa6_database" prompt="exa6_database?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_C8UrkyWXEeepgrpBZ18C7A" comment="" name="exa6_schema" prompt="exa6_schema?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_C8UrlCWXEeepgrpBZ18C7A" comment="" name="exa6_username" prompt="exa6_username?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_C8UrlSWXEeepgrpBZ18C7A" comment="" name="exa6_password" prompt="exa6_password?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

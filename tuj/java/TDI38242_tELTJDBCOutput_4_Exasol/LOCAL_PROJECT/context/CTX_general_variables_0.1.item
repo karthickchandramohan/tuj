@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_lYjcwCV3EeepgrpBZ18C7A" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_lYjcwSV3EeepgrpBZ18C7A" comment="" name="data_output_dir" prompt="new1?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_lYjcwiV3EeepgrpBZ18C7A" comment="" name="param_file_path" prompt="new1?" promptNeeded="false" type="id_String" value="D:\talend\mycontext.csv"/>
+  <contextParameter xmi:id="_lYjcwyV3EeepgrpBZ18C7A" comment="" name="result_database" prompt="new1?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_lYjcxCV3EeepgrpBZ18C7A" comment="" name="result_host" prompt="new1?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_lYjcxSV3EeepgrpBZ18C7A" comment="" name="result_password" prompt="new1?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_lYjcxiV3EeepgrpBZ18C7A" comment="" name="result_port" prompt="new1?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_lYjcxyV3EeepgrpBZ18C7A" comment="" name="result_table" prompt="new1?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_lYjcyCV3EeepgrpBZ18C7A" comment="" name="result_username" prompt="new1?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_lYjcySV3EeepgrpBZ18C7A" comment="" name="data_dir" prompt="data_dir?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_d-AZ8CV7EeepgrpBZ18C7A" comment="" name="mysql_database" prompt="mysql_database?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_d-AZ8SV7EeepgrpBZ18C7A" comment="" name="mysql_host" prompt="mysql_host?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_d-AZ8iV7EeepgrpBZ18C7A" comment="" name="mysql_password" prompt="mysql_password?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_d-AZ8yV7EeepgrpBZ18C7A" comment="" name="mysql_port" prompt="mysql_port?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_d-AZ9CV7EeepgrpBZ18C7A" comment="" name="mysql_table" prompt="mysql_table?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_d-AZ9SV7EeepgrpBZ18C7A" comment="" name="mysql_username" prompt="mysql_username?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
